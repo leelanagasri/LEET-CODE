@@ -17,4 +17,9 @@ Problem 4: Check if the Sentence Is Pangram (Leet Code No. 1832) --- Beats 100% 
 Desc: A pangram is a sentence where every letter of the English alphabet appears at least once.Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 
 Problem 5: Determine Color of a Chessboard Square (Leet Code No. 1812) --- Beats 100% --- 0ms
-Return true if the square is white, and false if the square is black. The coordinate will always represent a valid chessboard square. The coordinate will always have the letter first, and the number second. Sample : coordinates = "a1", Output: false, Explanation: From the chessboard above, the square with coordinates "a1" is black, so return false.
+
+Desc: Return true if the square is white, and false if the square is black. The coordinate will always represent a valid chessboard square. The coordinate will always have the letter first, and the number second. Sample : coordinates = "a1", Output: false, Explanation: From the chessboard above, the square with coordinates "a1" is black, so return false.
+
+Problem 6: Water Bottles (Leet Code No. 1518) --- Beats 100% --- 0ms
+
+Desc: There are numBottles water bottles that are initially full of water. You can exchange numExchange empty water bottles from the market with one full water bottle. The operation of drinking a full water bottle turns it into an empty bottle. Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
